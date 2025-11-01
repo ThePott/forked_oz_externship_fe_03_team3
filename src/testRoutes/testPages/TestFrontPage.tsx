@@ -91,6 +91,9 @@ const TestFrontPage = () => {
             <Button onClick={() => navigate('/test/thepott/file-dropzone')}>
               File Dropzone
             </Button>
+            <Button onClick={() => navigate('/test/thepott/dropdown')}>
+              Dropdown
+            </Button>
           </TitledRoundBox>
         </Vstack>
       </RoundBox>
